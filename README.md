@@ -6,7 +6,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&title=Joined2020,Experience,Commits,Repositories" alt="GitHub Trophies" />
 </p>
 
-## Languages and Tools 
+## Languages and Tools
 
 <p align="center">
   <strong>Languages:</strong>
@@ -17,7 +17,7 @@
     <tr>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="55" height="55"/><br>Python3</td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="55" height="55"/><br>C</td>
-      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/><br>JS</td>
+      <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/><br>JavaScript</td>
       <td align="center"><img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="55" height="55"/><br>Java</td>
       <td align="center"><img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/48x48.svg" title="Shell Script" alt="Shell Script" width="55" height="55"/><br>Shell Script</td>
     </tr>
@@ -32,7 +32,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=abeer555&style=for-the-badge&color=orange" alt="Profile Views"/>
 </p>
-
-<!-- <p align="center">
- <img width="1000" src="assets/snake.svg" alt="snake"/>
-</p> -->
