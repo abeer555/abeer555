@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Abeer Gupta</h1>
+<h1 align="center">Hi 👋, I'm Abeer</h1>
 <h4 align="center">
   🔭 I am a Linux enthusiast with a passion for computers.<br>
   🌱 I'm currently learning DevOps.
@@ -10,12 +10,6 @@
 
 
 
-<p align="left" style="display: flex; align-items: center;">
-  <h4 align="left">Connect with me:</h4>
-  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 10px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-</p>
 
 <br>
 <div align="center">
@@ -23,6 +17,12 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=7&theme=radical" alt="Top Languages">
 </div>
 
+<p align="left" style="display: flex; align-items: center;">
+  <h4 align="left">Connect with me:</h4>
+  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 <br>
 
 
