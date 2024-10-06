@@ -1,4 +1,6 @@
-## Hi there 👋 I am Abeer 
+<h3 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=1600&height=70&duration=4000&lines=Hello+There!+I'm+Abeer+" />
+</h3>
 
 <!--
 **abeer555/abeer555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -27,7 +29,6 @@ Here are some ideas to get you started:
 
 </div>
 
-
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
@@ -36,7 +37,7 @@ Here are some ideas to get you started:
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=abeer555&style=for-the-badge&color=orange" alt=""/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical" alt=""/>
 </div>
 
 <!-- <p align="center">
