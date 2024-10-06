@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 <p align="center">
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&theme=radical">
 </p>
  
 
