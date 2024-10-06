@@ -30,14 +30,14 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
-  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=vision-friendly-dark">
-  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
+  <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical">
+  <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact">
 </p>
  
 
 
 <div id="header" align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=abeer555&style=for-the-badge&color=orange" alt=""/>
 </div>
 
 <!-- <p align="center">
