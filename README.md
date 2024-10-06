@@ -40,5 +40,5 @@ Here are some ideas to get you started:
 </div>
 
 <p align="center">
- <img width="1000" src="assets/github-snake.svg" alt="snake"/>
+ <img width="1000" src="assets/snake.svg" alt="snake"/>
 </p>
