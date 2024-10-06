@@ -11,7 +11,7 @@
 
 
 <p align="left" style="display: flex; align-items: center;">
-  <h3 align="left">Connect with me:</h3>
+  <h4 align="left">Connect with me:</h4>
   <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 10px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
