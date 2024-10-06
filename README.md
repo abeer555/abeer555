@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 👋 I am Abeer 
 
 <!--
 **abeer555/abeer555** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,6 +39,6 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=abeer555&style=for-the-badge&color=orange" alt=""/>
 </div>
 
-<p align="center">
+<!-- <p align="center">
  <img width="1000" src="assets/snake.svg" alt="snake"/>
-</p>
+</p> -->
