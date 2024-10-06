@@ -2,9 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;I'm+Abeer+&repeat=false" alt="Typing SVG" />
 </h3>
 
-<p align="right">
-  <img src="https://komarev.com/ghpvc/?username=abeer555&style=flat-square&color=blue" alt="Profile Views" />
-</p>
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&column=4&margin-w=15&margin-h=15&title=Joined2020,Experience,Commits,Repositories" alt="GitHub Trophies" />
@@ -31,4 +28,7 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+</p>
+<p align="right">
+  <img src="https://komarev.com/ghpvc/?username=abeer555&style=flat-square&color=blue" alt="Profile Views" />
 </p>
