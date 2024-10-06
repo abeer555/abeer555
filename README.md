@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&title=Joined2020,Experience,Commits,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
+
+## Languages and Tools 
+<div>
+
+### Languages:
+| Python3 | C | JS | Java | Shell Script |
+|----------|----------|----------|-----|-----|
+|  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python"  alt="Python" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C"  alt="C" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="55" height="55"/> |  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="55" height="55"/>|  <img src="https://github.com/odb/official-bash-logo/blob/master/assets/Logos/Icons/SVG/48x48.svg" title="Shell Script" alt="Shell Script" width="55" height="55"/>| 
+
+ 
