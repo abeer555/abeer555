@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Abeer Gupta</h1>
-<h3 align="center">
+<h4 align="center">
   🔭 I am a Linux enthusiast with a passion for computers.<br>
   🌱 I'm currently learning DevOps.
-</h3>
-<br><br>
+</h4>
+<br>
 <p align="center"> 
 <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&column=4&margin-w=15&margin-h=15&title=Joined2020,Experience,Commits,Repositories" alt="abeer555" /> 
 </p>
@@ -15,7 +15,7 @@
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;">
   </a>
 </p>
-
+<br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=7&theme=radical" alt="Top Languages">
