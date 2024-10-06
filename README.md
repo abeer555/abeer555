@@ -17,9 +17,10 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=7&theme=radical" alt="Top Languages">
 </div>
 
+<br>
 <p align="left" style="display: flex; align-items: center;">
   Connect with me:
-  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 10px;">
+  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 1px;">
     <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
