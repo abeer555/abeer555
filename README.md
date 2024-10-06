@@ -10,11 +10,13 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="vertical-align:middle; margin-right:10px;">
+<p align="left" style="display: flex; align-items: center;">
+  Connect with me:
+  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 10px;">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
 <br>
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
