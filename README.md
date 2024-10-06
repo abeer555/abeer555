@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&column=4&margin-w=15&margin-h=15&title=Joined2020,Experience,Commits,Repositories" alt="GitHub Trophies" />
 </p>
 
 <div align="center">
@@ -24,8 +24,7 @@
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
-  <a href="https://linkedin.com/in/yourusername" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="https://twitter.com/yourusername" target="_blank"><img src="https://img.shields.io/badge/-Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"></a>
+  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
