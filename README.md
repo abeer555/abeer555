@@ -1,7 +1,6 @@
 <h1 align="left">Hi 👋, I'm Abeer</h1>
 <h4 align="left">
   🔭 I am a Linux enthusiast with a passion for computers.<br>
-  🌱 I'm currently learning DevOps.
 </h4>
 <br>
 <p align="center"> 
