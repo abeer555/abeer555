@@ -1,26 +1,128 @@
-<h1 align="left">Hi 👋, I'm Abeer</h1>
-<h4 align="left">
-  🔭 I am a Linux enthusiast with a passion for computers.<br>
-</h4>
-<br>
-<p align="center"> 
-<img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onedark&column=4&margin-w=10&margin-h=10&title=Joined2020,Experience,Commits,Repositories" alt="abeer555" /> 
-</p>
+# Abeer Gupta
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=7&theme=radical" alt="Top Languages">
+  
+### 🚀 Software Developer | Cybersecurity Intern | Technology Explorer
+
+*Building robust solutions and contributing to the tech community*
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeer-gupta-613076278/)
+![Profile Views](https://komarev.com/ghpvc/?username=abeer555&label=Profile%20Views&color=0e75b6&style=for-the-badge)
+
 </div>
 
-<br>
-<p align="left" style="display: flex; align-items: center;">
-  <h4>Connect with me:</h4>
-  <a href="https://www.linkedin.com/in/abeer-gupta-613076278/" target="_blank" style="margin-left: 1px;">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+---
+
+## 👨‍💻 About Me
+
+I am a dedicated software developer with a growing expertise in **cybersecurity** and **information security**. Currently working as a Cybersecurity Intern at C9Labs, I'm passionate about **threat analysis**, **vulnerability assessment**, and **defensive security strategies**. My background combines software development with hands-on cybersecurity experience, making me well-versed in both building secure applications and identifying potential security threats.
+
+```
+🔭 Currently working: Cybersecurity Intern at C9Labs, Indore
+🌱 Learning: Advanced penetration testing, threat analysis, and security architecture  
+💡 Passionate about: Cybersecurity research and vulnerability assessment
+🎯 Goal: Developing expertise in information security and threat mitigation
+```
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onestar&column=4&margin-w=15&margin-h=15&title=Joined2020,Experience,Commits,Repositories" alt="GitHub Trophies" />
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeer555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+---
+
+## 🛠️ Technology Stack
+
+### **Programming Languages**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+### **DevOps & Cloud**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git" />
+</p>
 
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=abeer555&label=Profile%20views&color=0e75b6&style=flat" alt="abeer555" /> </p>
+### **Web Development**
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mongodb" />
+</p>
+
+### **Cybersecurity Tools & Technologies**
+<p align="left">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/John_the_Ripper-FF6B35?style=for-the-badge&logo=security&logoColor=white" />
+  <img src="https://img.shields.io/badge/Tcpdump-4B8BBE?style=for-the-badge&logo=terminal&logoColor=white" />
+  <img src="https://img.shields.io/badge/Active_Directory-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+</p>
+
+---
+
+## 🌟 Core Competencies
+
+<table>
+<tr>
+<td width="50%">
+
+**Cybersecurity Analysis**
+- Vulnerability Assessment
+- Network Security Monitoring
+- Cryptographic Analysis
+- Password Auditing & Testing
+
+</td>
+<td width="50%">
+
+**Security Operations**
+- Penetration Testing Fundamentals
+- Network Traffic Analysis
+- Active Directory Security
+- Incident Response & Forensics
+
+</td>
+</tr>
+</table>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abeer555&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+</div>
+
+---
+
+## 🤝 Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abeer%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeer-gupta-613076278/)
+[![GitHub](https://img.shields.io/badge/GitHub-abeer555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeer555)
+
+**Open to collaborations, discussions, and opportunities in software development and open-source projects**
+
+</div>
+
+---
+
+<div align="center">
+  <i>💡 "Code is like humor. When you have to explain it, it's bad." - Cory House</i>
+</div>
