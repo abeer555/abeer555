@@ -117,7 +117,11 @@ I am a dedicated software developer with a growing expertise in **cybersecurity*
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Abeer%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeer-gupta-613076278/)
 [![GitHub](https://img.shields.io/badge/GitHub-abeer555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeer555)
 
-**Open to collaborations, discussions, and opportunities in software development and open-source projects**
+### TryHackMe Profile
+
+<img src="https://tryhackme-badges.s3.amazonaws.com/hakenkreuz0.png" alt="TryHackMe Badge" />
+
+**Open to collaborations, discussions, and opportunities in software development and cybersecurity projects**
 
 </div>
 
