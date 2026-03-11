@@ -18,7 +18,7 @@
 I am a dedicated software developer with a growing expertise in **cybersecurity** and **information security**. Currently working as a Cybersecurity Intern at C9Labs, I'm passionate about **threat analysis**, **vulnerability assessment**, and **defensive security strategies**. My background combines software development with hands-on cybersecurity experience, making me well-versed in both building secure applications and identifying potential security threats.
 
 ```
-🔭 Currently working: Cybersecurity Intern at C9Labs, Indore
+🔭 Currently working: Freelancing
 🌱 Learning: Advanced penetration testing, threat analysis, and security architecture  
 💡 Passionate about: Cybersecurity research and vulnerability assessment
 🎯 Goal: Developing expertise in information security and threat mitigation
