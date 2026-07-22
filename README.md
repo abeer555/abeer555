@@ -2,7 +2,7 @@
 
 <div align="center">
   
-### 🚀 Software Developer | Cybersecurity Intern | Technology Explorer
+### Cloud • AI • DevOps • Cybersecurity
 
 *Building robust solutions and contributing to the tech community*
 
@@ -13,15 +13,11 @@
 
 ---
 
-## 👨‍💻 About Me
-
-I am a dedicated software developer with a growing expertise in **cybersecurity** and **information security**. Currently working as a Cybersecurity Intern at C9Labs, I'm passionate about **threat analysis**, **vulnerability assessment**, and **defensive security strategies**. My background combines software development with hands-on cybersecurity experience, making me well-versed in both building secure applications and identifying potential security threats.
-
 ```
-🔭 Currently working: Freelancing
-🌱 Learning: Advanced penetration testing, threat analysis, and security architecture  
+💼 Current Role  : SDE Intern @ Ericsson
+☁️ Learning      : Kubernetes, Cloud Native Systems, Networking
 💡 Passionate about: Cybersecurity research and vulnerability assessment
-🎯 Goal: Developing expertise in information security and threat mitigation
+🤖 Interests     : AI, Backend, DevOps, Cloud Security
 ```
 
 ---
@@ -74,33 +70,41 @@ I am a dedicated software developer with a growing expertise in **cybersecurity*
 </p>
 
 ---
-
-## 🌟 Core Competencies
+## 🎯 Areas of Interest
 
 <table>
 <tr>
+
 <td width="50%">
 
-**Cybersecurity Analysis**
-- Vulnerability Assessment
-- Network Security Monitoring
-- Cryptographic Analysis
-- Password Auditing & Testing
+### Backend & Cloud
+
+- REST APIs
+- Distributed Systems
+- Docker
+- Kubernetes
+- CI/CD
+- Cloud Native Applications
 
 </td>
+
 <td width="50%">
 
-**Security Operations**
-- Penetration Testing Fundamentals
-- Network Traffic Analysis
-- Active Directory Security
-- Incident Response & Forensics
+### AI & Software Engineering
+
+- LLM Applications
+- RAG Systems
+- Workflow Automation
+- FastAPI
+- Databases
+- Secure Software Design
 
 </td>
+
 </tr>
 </table>
 
----
+--- 
 
 ## 📈 Contribution Graph
 
@@ -113,10 +117,6 @@ I am a dedicated software developer with a growing expertise in **cybersecurity*
 ## 🤝 Let's Connect
 
 <div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Abeer%20Gupta-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abeer-gupta-613076278/)
-[![GitHub](https://img.shields.io/badge/GitHub-abeer555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/abeer555)
-
 ### TryHackMe Profile
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hakenkreuz0.png" alt="TryHackMe Badge" />
