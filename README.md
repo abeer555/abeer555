@@ -14,34 +14,30 @@
 ---
 
 ```
-💼 Current Role  : SDE Intern @ Ericsson
-☁️ Learning      : Kubernetes, Cloud Native Systems, Networking
-💡 Passionate about: Cybersecurity research and vulnerability assessment
-🤖 Interests     : AI, Backend, DevOps, Cloud Security
+💼 Current Role    : SDE Intern @ Ericsson
+☁️ Learning        : Kubernetes, Cloud Native Systems, Networking
+🤖 Interests       : AI, Backend, DevOps, Cloud Security
 ```
-
----
-
-## 🏆 GitHub Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=abeer555&theme=onestar&column=4&margin-w=15&margin-h=15&title=Joined2020,Experience,Commits,Repositories" alt="GitHub Trophies" />
-</div>
-
 ---
 
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abeer555&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abeer555&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Top Languages">
-</div>
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com/?user=abeer555&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
+  /> 
+  
+  ---
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abeer555&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abeer555&theme=tokyonight"
+    alt="GitHub Profile Details"
+  />
 </div>
 
 ---
+
 
 ## 🛠️ Technology Stack
 
@@ -117,6 +113,7 @@
 ## 🤝 Let's Connect
 
 <div align="center">
+
 ### TryHackMe Profile
 
 <img src="https://tryhackme-badges.s3.amazonaws.com/hakenkreuz0.png" alt="TryHackMe Badge" />
