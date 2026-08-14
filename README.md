@@ -41,23 +41,44 @@
 
 ## 🛠️ Technology Stack
 
-### **Programming Languages**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,java,javascript,cpp,c" />
+### Infrastructure & Cloud ☁️
+
+<div align="center">
+<img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,nginx,linux,bash,powershell,terraform,githubactions,git,github&perline=10&theme=dark" />
+</div>
+
+### **Programming Languages** 💻
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,cpp,c,bash&perline=10&theme=dark" />
 </p>
 
-### **DevOps & Cloud**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,git" />
+### **DevOps & Cloud** 🧑‍💻
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,azure,aws,git,githubactions,jenkins,grafana,prometheus,ansible&perline=10&theme=dark" />
 </p>
 
-### **Web Development**
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,nodejs,mongodb" />
+### **Web Development & Backend** 🌐
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=html,css,nodejs,express,fastapi,mongodb,postgresql,redis,graphql&perline=10&theme=dark" />
 </p>
 
-### **Cybersecurity Tools & Technologies**
-<p align="left">
+### **AI / ML & Data** 🤖
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,py,opencv,scikitlearn&perline=10&theme=dark" />
+</p>
+
+### **Tools & Platforms** 🔨
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode,vim,postman,figma,linux,githubactions&perline=10&theme=dark" />
+</p>
+
+### **Cybersecurity Tools & Technologies** 🔐
+<p align="center">
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
   <img src="https://img.shields.io/badge/Nmap-0078D4?style=for-the-badge&logo=nmap&logoColor=white" />
   <img src="https://img.shields.io/badge/John_the_Ripper-FF6B35?style=for-the-badge&logo=security&logoColor=white" />
