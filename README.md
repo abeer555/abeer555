@@ -23,10 +23,10 @@
 ## 📊 GitHub Analytics
 
 <div align="center">
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=abeer555&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  /> 
+ <img
+  src="https://github-readme-stats.shion.dev/api?username=abeer555&theme=catppuccin_mocha"
+  alt="GitHub Stats"
+/>
   
   ---
 
